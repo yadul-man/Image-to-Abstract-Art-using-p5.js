@@ -1,7 +1,7 @@
 # Image-to-Abstract-Art-using-p5.js
 
 ### This is a simple script that uses the p5.js library
-#### It takes an image as an input, processes it, and creates abstract art out of it
+#### It takes an image as input, processes it, and creates abstract art out of it
 #### Processing steps are as follows:
 1. Receive an image
 2. Read the image pixel by pixel
