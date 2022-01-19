@@ -11,4 +11,4 @@
    The properties of the curves generated are also random as well.
    
 ### The final result is as follows:
-![result](result.jpg)
+![result](https://github.com/yadul-man/random-files/blob/main/result.jpg)
